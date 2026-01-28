@@ -1,16 +1,4 @@
-# my_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# trying_flutter
+```sh
+I already have experience using GitHub because I started using it when I was in Grade 11 i use GitHub to store and manage my programming projects. I know how to upload files using git add, git commit, and git push. GitHub helped me understand the concept of version control. I can track my progress through the commit history i have also experienced editing and updating projects in a repository because of GitHub, I became more organized with my files. My early experience with GitHub has been very helpful in my IT journey. Currently i am using a second GitHub account because I lost access to my main account due to forgetting the password and losing access to the email associated with it.
+```
